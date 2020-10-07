@@ -1,0 +1,18 @@
+kafka:
+  bootstrapAddress: localhost:9092
+
+message:
+  topic:
+    name: mytopic
+
+greeting:
+  topic:
+    name: greeting
+
+filtered:
+  topic:
+    name: filtered
+
+partitioned:
+  topic:
+    name: partitioned
